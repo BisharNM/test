@@ -3,14 +3,14 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://YourUsername.github.io/Demo",
+  "homepage": "https://YourUsername.github.io/test",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -r https://github.com/BisharNM/Demo.git"
+    "deploy": "gh-pages -d dist -r https://github.com/BisharNM/test.git"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
